@@ -46,11 +46,11 @@
   "_spec": "1.11.0",
   "_where": "D:\\Prabhin\\training\\spfx\\TimeManagement\\TimeManagement",
   "dependencies": {
-    "@microsoft/gulp-core-build-serve": "3.5.5",
+    "@microsoft/gulp-core-build-serve": "3.10.0",
     "@microsoft/node-core-library": "3.15.1",
     "@microsoft/office-ui-fabric-react-bundle": "1.11.0",
     "@microsoft/sp-application-base": "1.11.0",
-    "@microsoft/sp-build-core-tasks": "1.11.0",
+    "@microsoft/sp-build-core-tasks": "1.20.0",
     "@microsoft/sp-core-library": "1.11.0",
     "@microsoft/sp-loader": "1.11.0",
     "@microsoft/sp-lodash-subset": "1.11.0",
